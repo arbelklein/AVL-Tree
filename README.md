@@ -22,7 +22,7 @@ To use the AVL tree-based list implementation:
 ## Output
 The implementation does not include direct user interaction or terminal output, as it is designed to be used programmatically. However, the methods return values that reflect the state of the AVL tree-based list. Examples include:
 - `empty()`:
-  ```
+  ```sh
   print(avl_list.empty())  # Output: True (if the list is empty)
   ```
 - `insert()`:
